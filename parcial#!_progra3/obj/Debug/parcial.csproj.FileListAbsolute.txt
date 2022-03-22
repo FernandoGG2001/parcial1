@@ -1,0 +1,8 @@
+C:\Users\luiz\Downloads\PrimerParcial\obj\Debug\parcial.csproj.AssemblyReference.cache
+C:\Users\luiz\Downloads\PrimerParcial\obj\Debug\parcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\luiz\Downloads\PrimerParcial\obj\Debug\parcial.Form1.resources
+C:\Users\luiz\Downloads\PrimerParcial\obj\Debug\PrimerParcial.Properties.Resources.resources
+C:\Users\luiz\Downloads\PrimerParcial\obj\Debug\parcial.csproj.GenerateResource.cache
+C:\Users\luiz\Downloads\PrimerParcial\obj\Debug\parcial.csproj.CoreCompileInputs.cache
+C:\Users\luiz\Downloads\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\luiz\Downloads\PrimerParcial\obj\Debug\PrimerParcial.pdb
